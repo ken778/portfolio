@@ -192,6 +192,7 @@ img {
 .home_social {
   display: flex;
   flex-direction: column;
+  padding: 3%;
 }
 .home_social-icon {
   width: max-content;
