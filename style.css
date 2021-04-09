@@ -448,5 +448,8 @@ img {
   z-index: 2;
 }
 .photo {
-  margin-top: 3rem;
+  margin-top: 3rem !important;
+}
+.home-soci {
+  z-index: 2;
 }
