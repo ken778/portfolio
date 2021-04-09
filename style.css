@@ -449,6 +449,7 @@ img {
 }
 .photo {
   margin-top: 3rem !important;
+  margin-left: 2rem;
 }
 .home-soci {
   z-index: 2;
