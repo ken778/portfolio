@@ -181,6 +181,10 @@ img {
 }
 .home_data {
   align-self: center;
+  margin-top: 15px !important;
+}
+.t{
+  margin-top: 3.5rem;
 }
 .homw_title {
   font-size: var(--big-font-size);
