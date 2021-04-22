@@ -423,6 +423,7 @@ img {
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
     text-align: initial;
+    
   }
   .about_img img {
     width: 300px;
